@@ -43,3 +43,5 @@ Explique qué recorrido usaría para:
 1. Mostrar el menú principal.
 2. Procesar primero los módulos internos.
 3. Mostrar módulos nivel por nivel.
+
+SE REALIZAN LOS DEBIDOS EJERCICIOS
