@@ -18,9 +18,9 @@ struct Nodo {
     }
 };
 
-// ===================================
+// ==================================
 // FUNCIÓN PARA INSERTAR EN EL BST
-// ===================================
+// ==================================
 Nodo* insertar(Nodo* raiz, int valor) {
 
     // Si el árbol está vacío, se crea el nodo
